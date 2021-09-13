@@ -15,5 +15,6 @@ and pages;
  however, 
 for simplicity,
 I have created
- a simple project to start.
+ a simple project
+ to start.
  You can expand it further and add it as per your wish. 

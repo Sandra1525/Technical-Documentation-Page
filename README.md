@@ -8,7 +8,7 @@ information
  and help.
 Most
  technical
- documentation
+ documentations
  has multiple
  hierarchie
 and pages;

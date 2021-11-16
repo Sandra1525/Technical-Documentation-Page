@@ -11,7 +11,7 @@ Most
  documentations
  has multiple
  hierarchie
-and pages;
+  and pages;
  however, 
 for simplicity,
 I have created

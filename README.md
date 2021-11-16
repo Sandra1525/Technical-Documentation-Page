@@ -14,7 +14,7 @@ Most
   and pages;
  however, 
 for simplicity,
-I have tried created
+I have tried to created
  a simple project
  to start.
  You can

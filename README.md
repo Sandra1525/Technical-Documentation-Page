@@ -19,7 +19,6 @@ I have created
  to start.
  You can
  expand 
-it further
- and 
+it further and 
 add it 
 as per your wish. 

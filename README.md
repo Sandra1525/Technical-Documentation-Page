@@ -8,7 +8,8 @@ i
 nformation
  and help.
 Most
- technical
+ techn
+ical
  documentations
  has multiple
  hierarchie

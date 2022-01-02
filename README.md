@@ -4,7 +4,8 @@
  etc. has technical 
 documentation
  for 
-information
+i
+nformation
  and help.
 Most
  technical

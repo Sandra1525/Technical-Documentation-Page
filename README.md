@@ -1,7 +1,7 @@
 # Technical-Documentation-Page
  Every language be it
  software, hardware,
- etc. has technical 
+ etc. haechnical 
 documentation
  for 
 i

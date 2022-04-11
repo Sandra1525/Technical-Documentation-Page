@@ -9,7 +9,7 @@ nformation
  and help.
 Most
  techn
-ical
+icalm
  documentations
  has multiple
  hierarchie

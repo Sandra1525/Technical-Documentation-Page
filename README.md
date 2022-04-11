@@ -1,6 +1,6 @@
 # Technical-Documentation-Page
  Every language be it
- software, hardware,
+ software hardware,
  etc. has technical 
 documentation
  for 
